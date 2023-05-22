@@ -14,3 +14,55 @@ routes vers les micro services enregistrés dans l’annuaire Eureka Server
 6. Créer Le service Billing-Service en utilisant Open Feign pour
 communiquer avec les services Customer-service et Inventory-service
 7. Créer un client Angular qui permet d’afficher une facture
+===========================================================================
+
+
+
+<details>
+<summary> Créer le micro service Customer-service:</summary>
+                               
+#### 1 ---> Test the Unary Model using BloomRPC:
+
+</details>
+
+<details>
+<summary> Créer le micro service Inventory-service</summary>
+                               
+#### 1 ---> Test the Unary Model using BloomRPC:
+
+</details>
+
+<details>
+<summary>Créer la Gateway service en utilisant Spring Cloud Gateway:</summary>
+                               
+#### 1 ---> Test the Unary Model using BloomRPC:
+
+</details>
+<details>
+<summary> Créer l’annuaire Registry Service basé sur NetFlix Eureka Server:</summary>
+                               
+#### 1 ---> Test the Unary Model using BloomRPC:
+
+</details>
+
+
+<details>
+<summary>  Tester le proxy en utilisant une configuration dynamique de Gestion des
+routes vers les micro services enregistrés dans l’annuaire Eureka Server:</summary>
+                               
+#### 1 ---> Test the Unary Model using BloomRPC:
+
+</details>
+<details>
+<summary> Créer Le service Billing-Service en utilisant Open Feign pour
+communiquer avec les services Customer-service et Inventory-service:</summary>
+                               
+#### 1 ---> Test the Unary Model using BloomRPC:
+
+</details>
+<details>
+<summary> Créer un client Angular qui permet d’afficher une facture </summary>
+                               
+#### 1 ---> Test the Unary Model using BloomRPC:
+
+</details>
