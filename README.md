@@ -14,6 +14,8 @@ routes vers les micro services enregistrés dans l’annuaire Eureka Server
 6. Créer Le service Billing-Service en utilisant Open Feign pour
 communiquer avec les services Customer-service et Inventory-service
 7. Créer un client Angular qui permet d’afficher une facture
+
+===========================================================================
 ===========================================================================
 
 
