@@ -41,7 +41,11 @@ communiquer avec les services Customer-service et Inventory-service
 <details>
 <summary>Créer la Gateway service en utilisant Spring Cloud Gateway:</summary>
                                
-#### 1 ---> Test the Unary Model using BloomRPC:
+#### 1 ---> For Products:
+![image](https://github.com/lam843/TP5_architecture_micro_service/assets/78732216/6a6fcdbe-594b-4b79-a6a9-1c548f1e0213)
+#### 2 ---> For Customers:
+ ![image](https://github.com/lam843/TP5_architecture_micro_service/assets/78732216/a361f974-4aa8-4c11-87fd-700fdfdedbd2)
+
 
 </details>
 <details>
