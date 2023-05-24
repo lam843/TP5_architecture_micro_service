@@ -23,6 +23,8 @@ communiquer avec les services Customer-service et Inventory-service
                                
 #### 1 ---> Test customers:
  ![image](https://github.com/lam843/TP5_architecture_micro_service/assets/78732216/047c34eb-1a28-46b4-8a24-b25641d9da81)
+ ![image](https://github.com/lam843/TP5_architecture_micro_service/assets/78732216/4d687d59-8f28-47dc-828c-18bde96f8a66)
+
 
 
 </details>
