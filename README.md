@@ -51,7 +51,9 @@ communiquer avec les services Customer-service et Inventory-service
 <details>
 <summary> Créer l’annuaire Registry Service basé sur NetFlix Eureka Server:</summary>
                                
-#### 1 ---> Test the Unary Model using BloomRPC:
+#### 1 ---> Test the sevice:
+![image](https://github.com/lam843/TP5_architecture_micro_service/assets/78732216/693f0f60-37b7-4953-8886-a0ba97af0efb)
+
 
 </details>
 
