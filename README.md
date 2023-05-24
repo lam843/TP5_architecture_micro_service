@@ -23,7 +23,9 @@ communiquer avec les services Customer-service et Inventory-service
 <details>
 <summary> Créer le micro service Customer-service:</summary>
                                
-#### 1 ---> Test the Unary Model using BloomRPC:
+#### 1 ---> Test customers:
+ ![image](https://github.com/lam843/TP5_architecture_micro_service/assets/78732216/047c34eb-1a28-46b4-8a24-b25641d9da81)
+
 
 </details>
 
