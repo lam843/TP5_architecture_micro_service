@@ -81,6 +81,11 @@ communiquer avec les services Customer-service et Inventory-service:</summary>
 <details>
 <summary> Créer un client Angular qui permet d’afficher une facture </summary>
                                
-#### 1 ---> Test the Unary Model using BloomRPC:
+#### 1 ---> product:
+<img width="1791" alt="1" src="https://github.com/lam843/TP5_architecture_micro_service/assets/78732216/d3806d38-0513-423b-85b1-db8a8105460b">
+          
+#### 2 ---> Client:
+![2](https://github.com/lam843/TP5_architecture_micro_service/assets/78732216/b7c3bc3e-8327-4edb-8465-8b6613d381b3)
+  
 
 </details>
