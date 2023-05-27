@@ -62,14 +62,20 @@ communiquer avec les services Customer-service et Inventory-service
 <summary>  Tester le proxy en utilisant une configuration dynamique de Gestion des
 routes vers les micro services enregistrés dans l’annuaire Eureka Server:</summary>
                                
-#### 1 ---> Test the Unary Model using BloomRPC:
+#### 1 ---> Test:
+![image](https://github.com/lam843/TP5_architecture_micro_service/assets/78732216/e6a793f4-c7d2-481e-b05b-25e63ccd6e98)
 
 </details>
 <details>
 <summary> Créer Le service Billing-Service en utilisant Open Feign pour
 communiquer avec les services Customer-service et Inventory-service:</summary>
                                
-#### 1 ---> Test the Unary Model using BloomRPC:
+#### 1 ---> Test Service:
+ ![image](https://github.com/lam843/TP5_architecture_micro_service/assets/78732216/19c9bc97-f8d0-4bdd-83db-e2e3fc1ac7c3)
+#### 2 ---> DataBase: 
+![image](https://github.com/lam843/TP5_architecture_micro_service/assets/78732216/49ec3676-f242-4088-a5d6-e319d111ce8f)
+
+
 
 </details>
 <details>
